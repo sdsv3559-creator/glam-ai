@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+test_images/
+
+# Auto-generated from commerce/deal_finder.py's seed data on first run —
+# not committed, only the seed code that creates it is.
+products.db
